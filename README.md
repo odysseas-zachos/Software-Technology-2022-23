@@ -240,20 +240,6 @@ From a software engineering perspective, this project demonstrates experience wi
 - Identifying project risks and defining mitigation strategies.
 - Maintaining a final documentation set alongside the implementation.
 
-## Current Scope & Possible Next Steps
-
-The project was developed as an academic system and intentionally focuses on a subset of the broader HOTELIDAY concept.
-
-Natural next steps for a production-oriented version would be:
-
-- Add automated unit and integration testing.
-- Add CI/CD and code-quality checks.
-- Move secrets and database configuration outside the source code.
-- Improve validation and error handling around external/database failures.
-- Introduce a clearer service/repository separation between UI controllers and persistence logic.
-- Add stronger authentication and password hashing.
-- Expand reporting, analytics and multilingual support.
-
 ## Team
 
 Developed by a **4-member team** as part of the Software Technology course at the University of Patras.
