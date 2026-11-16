@@ -19,7 +19,7 @@ The system brings together **guest reservations, room management, staff operatio
 | Primary language | Java |
 | UI | JavaFX + FXML |
 | Database | MySQL |
-| Database connectivity | JDBC / MySQL Connector/J |
+| Database connectivity | JDBC / MySQL Connector |
 | Modeling & documentation | Visual Paradigm, Lucid, draw.io |
 | Team process | Kanban with weekly meetings |
 | Scope | Requirements → design → implementation → demonstration |
